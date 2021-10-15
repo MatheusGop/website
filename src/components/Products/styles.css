@@ -1,0 +1,154 @@
+.services {
+    width: 325px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50px;
+    border: none;
+    box-shadow: none;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 63px;
+}
+
+.services:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: none;
+    border: none;
+}
+
+.services:focus {
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: none;
+    border: none;
+}
+
+.services:active {
+    background-color: black;
+    border-color: black;
+    box-shadow: none;
+    border: none;
+}
+
+.h1-section-project {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 60px;
+}
+
+.h1-our-projects {
+    padding-top: 64px;
+    font-size: 64px;
+    color: black;
+}
+
+.h1-title-section {
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    margin-top: 54px;
+    text-align: left;
+}
+
+.gradient {
+    position: relative;
+    height: 700px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.53)),
+    linear-gradient(180deg, #3AA3DE 0%, rgba(0, 0, 0, 0.8) 100%);
+    
+}
+
+.gradient-2 {
+    height: 700px;
+    background: linear-gradient(180deg, #343434 0%, #07161C 46.35%, #000000 100%);
+}
+
+.h1-image-title {
+    font-family: 'Zhi Mang Xing', cursive;
+    transform: rotate(-11.31deg);
+    background: linear-gradient(180deg, #FFFFFF 0%, #00456C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 72px
+}
+
+.first-image {
+    position: absolute;
+    transform: translate(100%, 15%);
+    /* transform: translateX(25%);
+    transform: translateY(20%); */
+    z-index: 1;
+}
+
+.second-image {
+    position: absolute;
+    transform: translate(70%, 30%);
+    /* transform: translateX(50%);
+    transform: translateY(-85%); */
+    z-index: -0;
+    /* left: 181px; */
+    /* top: 127px; */
+}
+
+.img-second-image {
+    max-width: 401px;
+    max-height: 403px;
+}
+
+.h1-title-image {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.div-container-image-text {
+    z-index: 2;
+}
+
+.h1-subtitle-image {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-image {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    border-color: white;
+    border-radius: 25px;
+    width: 133px;
+    height: 38px;
+}
+
+.btn-image:hover, .btn-image:focus, .btn-image:active {
+    background-color: rgba(255, 255, 255, 0.8)!important;
+    color: black !important;
+    font-size: 16px;
+    font-weight: 700;
+    border-color: white !important;
+    box-shadow: none !important;
+}
+
+.img-responsive-mobile {
+    
+}
+
+.img-servicos-mobile {
+    width: 100%;
+}
+
+.project-image {
+    width: 100%;
+    height: 100%;
+}
+
+.title-first-project {
+    margin-top: 17px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.subtitle-first-project {
+    font-size: 18px;
+    font-weight: 400;
+}

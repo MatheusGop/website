@@ -1,0 +1,18 @@
+.logo {
+    max-width: 75px;
+    max-height: 75px
+}
+
+.nav-item .nav-link {
+    color: black !important;
+}
+
+.nav-item .nav-link:hover {
+    color: rgba(0, 0, 0, 0.7) !important;
+}
+
+header {
+    z-index: 10;
+    width: 100%;
+    background-color: white;
+}

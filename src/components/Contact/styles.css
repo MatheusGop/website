@@ -1,0 +1,64 @@
+.div-content-contact {
+    background: #242424;
+}
+
+.first-container {
+    margin-top: 247px;
+}
+
+.second-container {
+    margin-top: 118px;
+    border-left: 1px solid white;
+    padding-left: 60px;
+}
+
+input.input-contact, textarea.input-contact {
+    width: 75%;
+    height: 42px;
+    background-color: transparent;
+    border: 0.3px solid #FFFFFF;
+    border-radius: 30px;
+    margin-top: 23px;
+    color: white;
+    padding-left: 15px;
+}
+
+textarea.input-contact {
+    height: auto;
+    padding-top: 20px;
+}
+
+input.input-contact::placeholder {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.second-container h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.second-container h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.img-car-contact {
+    margin-right: 94px;
+}
+
+.gradient-contact {
+    width: 100px;
+    height: 59px;
+    background: linear-gradient(180deg, #939393 0%, #B9B9B9 100%);
+}
+
+.logocircle {
+    top: -40px;
+    right: 65px;
+}
+
+.arrow-contact {
+    width: 20%;
+}

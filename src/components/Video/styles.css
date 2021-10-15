@@ -1,0 +1,11 @@
+.video {
+    width: 100% !important;
+    position: relative;
+    /* min-height: 100%;
+    height: 500px; */
+}
+
+.video-container {
+    width: 100%;
+    height: 100px;
+}

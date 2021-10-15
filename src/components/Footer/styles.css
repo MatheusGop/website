@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    background: #242424;
+    box-shadow: 0px 4px 31px 0px #00000040;
+}
+
+.footer-container {
+    padding: 15px 0 20px 0;
+    border-bottom: 1px solid #4A4A4A;
+}
+
+.text-footer {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-third-container {
+    width: 100px;
+}
+
+.footer-text {
+    height: 100px;
+    background: #242424;
+}
+
+.footer-title {
+    font-weight: bold;
+    font-size: 14px;
+}
