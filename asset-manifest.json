@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.e6a66dbf.chunk.css",
+    "main.js": "/website/static/js/main.e10a3a6e.chunk.js",
+    "main.js.map": "/website/static/js/main.e10a3a6e.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.c7c59788.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.c7c59788.js.map",
+    "static/js/2.5ab294a8.chunk.js": "/website/static/js/2.5ab294a8.chunk.js",
+    "static/js/2.5ab294a8.chunk.js.map": "/website/static/js/2.5ab294a8.chunk.js.map",
+    "static/js/3.f2d8c4ca.chunk.js": "/website/static/js/3.f2d8c4ca.chunk.js",
+    "static/js/3.f2d8c4ca.chunk.js.map": "/website/static/js/3.f2d8c4ca.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/main.e6a66dbf.chunk.css.map": "/website/static/css/main.e6a66dbf.chunk.css.map",
+    "static/js/2.5ab294a8.chunk.js.LICENSE.txt": "/website/static/js/2.5ab294a8.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.dfed42ff.svg": "/website/static/media/arrow-left.dfed42ff.svg",
+    "static/media/arrow-right.fdd1be43.svg": "/website/static/media/arrow-right.fdd1be43.svg",
+    "static/media/car.fc969c25.png": "/website/static/media/car.fc969c25.png",
+    "static/media/checkIcon.1ca7976a.svg": "/website/static/media/checkIcon.1ca7976a.svg",
+    "static/media/instagram.7fc59ea0.svg": "/website/static/media/instagram.7fc59ea0.svg",
+    "static/media/logo-circle.caa57511.png": "/website/static/media/logo-circle.caa57511.png",
+    "static/media/logo.8519b0ba.png": "/website/static/media/logo.8519b0ba.png",
+    "static/media/ourservicos.60d76fdc.svg": "/website/static/media/ourservicos.60d76fdc.svg",
+    "static/media/ourservicos2.56588e85.svg": "/website/static/media/ourservicos2.56588e85.svg",
+    "static/media/product-three.e5791d24.svg": "/website/static/media/product-three.e5791d24.svg",
+    "static/media/product-two.8f3e8e15.svg": "/website/static/media/product-two.8f3e8e15.svg",
+    "static/media/retangulo.ab9c7a35.svg": "/website/static/media/retangulo.ab9c7a35.svg",
+    "static/media/secondimage.a6a5fd1f.png": "/website/static/media/secondimage.a6a5fd1f.png",
+    "static/media/servicesImage.464f62cc.png": "/website/static/media/servicesImage.464f62cc.png",
+    "static/media/servicos.9c3a7bdd.svg": "/website/static/media/servicos.9c3a7bdd.svg",
+    "static/media/simbolo.63b973ed.svg": "/website/static/media/simbolo.63b973ed.svg",
+    "static/media/twitter.75148097.svg": "/website/static/media/twitter.75148097.svg",
+    "static/media/vectorpaint.cbc84b3a.svg": "/website/static/media/vectorpaint.cbc84b3a.svg",
+    "static/media/video.24110a04.mp4": "/website/static/media/video.24110a04.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c59788.js",
+    "static/js/2.5ab294a8.chunk.js",
+    "static/css/main.e6a66dbf.chunk.css",
+    "static/js/main.e10a3a6e.chunk.js"
+  ]
+}
